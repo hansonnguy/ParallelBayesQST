@@ -17,7 +17,7 @@ Fig. 3: Run squaredFroB.m:
 
 Fig. 4: Run fbTime with qMax = 4; fbPrecision = 6;
 
-Fig. 5: in the Experimental Data set, run barPlot for:
+Fig. 5: in the Experimental Data set, run densityMat.m for:
 ‘ParallelQqubitBures_Q=1_chain=1024_th=12_numSamp=1024_001’
 ‘ParallelQqubitBures_Q=2_chain=1024_th=12_numSamp=1024_001’
 ‘ParallelQqubitBures_Q=3_chain=1024_th=12_numSamp=1024_001’
